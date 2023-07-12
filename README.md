@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-Karen is the end user opening a ticket. She is reporting that mobile banking is completely down, and so from the menu she selects that this is a Business Critical Outage. In the last tutorial I showed you how to create help topics like "Business Critical Outage" to help categorize tickets that are coming in.
+Karen is the end user opening a ticket. She is reporting that mobile banking is completely down, and so from the menu she selects that this is a Business Critical Outage. 
 <p>
 <br />
 <img src="https://i.imgur.com/TpYYX7V.png" height="80%" width="80%" alt="Karen opens a ticket"/>
